@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Baarkas",
+    "address": "Vijayawada",
+    "cuisine": "Arabic",
+    "website": "https://www.baarkasrestaurant.com",
+    "description": "Here The Chicken wings mandi tastes so good."
+  },
+  {
+    "name": "Andhra Spice",
+    "address": "PVP Mall",
+    "cuisine": "Indian",
+    "website": "https://andhraspice.com",
+    "description": "We can't eat more food here. Haha, I am just kidding."
+  },
+  {
+    "name": "Mandi Crudes",
+    "address": "Trendset",
+    "cuisine": "Italian",
+    "website": "https://mandicrudes.com",
+    "description": "Tastes so good."
+  }
+]
